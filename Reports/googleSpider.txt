@@ -1,0 +1,4 @@
+[+] site:*.tjut.edu.cn inurl:admin|login|register|upload|editor :
+[+] site:*.tjut.edu.cn inurl:admin|login|register|upload|editor :
+[+] site:*.tjut.edu.cn inurl:admin|login|register|upload|editor :
+[+] site:*.tjut.edu.cn 后台|系统 :
